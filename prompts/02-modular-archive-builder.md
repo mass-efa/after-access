@@ -5,7 +5,7 @@ Use this if you want to choose exactly which parts of the archive process to run
 Part of the After Access toolkit.
 
 - Repository: https://github.com/mass-efa/after-access
-- Safety guide: ../docs/safety-and-compliance-guide.md
+- Safety guide: ../SAFETY.md
 
 ```markdown
 # ROLE

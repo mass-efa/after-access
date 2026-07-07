@@ -86,7 +86,7 @@ Instead preserve:
 - Interview-ready stories
 - External-safe accomplishment language
 
-See the [`docs/safety-and-compliance-guide.md`](docs/safety-and-compliance-guide.md) for the intended boundaries.
+See [`SAFETY.md`](SAFETY.md) for the intended boundaries.
 
 ---
 
@@ -118,19 +118,6 @@ It helps you map your work, preserve your story, and turn accomplishments into r
 
 https://github.com/mass-efa/after-access
 ```
-
----
-
-## Publishing checklist
-
-Before sharing publicly:
-
-1. Confirm the GitHub repository name and update the share link above if needed.
-2. Read through the prompts once in GitHub preview mode.
-3. Keep the confidentiality and IP cautions intact in any fork or modified version.
-4. Consider pinning the safety guide in the repo description or release notes.
-
-See [`docs/github-publishing-checklist.md`](docs/github-publishing-checklist.md).
 
 ---
 

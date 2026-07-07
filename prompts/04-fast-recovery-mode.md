@@ -5,7 +5,7 @@ Use this when access ends soon and you need a useful archive quickly.
 Part of the After Access toolkit.
 
 - Repository: https://github.com/mass-efa/after-access
-- Safety guide: ../docs/safety-and-compliance-guide.md
+- Safety guide: ../SAFETY.md
 
 ```markdown
 # ROLE
