@@ -5,10 +5,10 @@ Use this before publishing the toolkit.
 ## Repository Setup
 
 - Repository name: `after-access`
-- Suggested owner: `mass-efa`
-- Suggested visibility: public
-- Suggested repo description: `Prompt toolkit for laid-off workers and career transitioners to map their work, preserve their story, and generate resume/interview assets without copying confidential company materials.`
-- Suggested topics: `career-transition`, `layoffs`, `resume`, `interview-prep`, `prompt-engineering`, `job-search`, `ai-tools`
+- Owner: `mass-efa`
+- Visibility: public
+- Description: `Prompt toolkit for laid-off workers and career transitioners to map their work, preserve their story, and generate resume/interview assets without copying confidential company materials.`
+- Topics: `career-transition`, `layoffs`, `resume`, `interview-prep`, `prompt-engineering`, `job-search`, `ai-tools`
 
 ## Link Check
 
