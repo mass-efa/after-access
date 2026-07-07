@@ -183,14 +183,14 @@ For every internal codename, tool name, or company-specific phrase, provide:
 - External-friendly phrasing
 
 Example:
-- Internal: "xPrice"
+- Internal: "Cambria_Canary"
 - Plain English: "targeted discounting and personalized monetization platform"
 - External phrasing: "audience-based promotional pricing engine"
 
 ## 7. Build reusable assets
 
 For each major initiative, create:
-- Full case study
+- Full case study minus confidential data
 - Resume-ready bullets
 - Interview stories
 - Executive summary version
@@ -258,8 +258,6 @@ Assemble a detailed master archive. Do not make it short unless I explicitly ask
 
 The final result should be good enough that I can use it to create:
 - Resume
-- Principal PM resume
-- Director resume
 - Executive bio
 - Recruiter pitch
 - Interview preparation
